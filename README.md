@@ -128,11 +128,10 @@ Your PowerPoint presentation is now ready!
 ## Before & After
 
 ### Before — Direct Canva Export
-![Before](assets/before.png)
+![Before](assets/before.jpg)
 
 ### After — Converted with This Tool
-![After](assets/after.png)
-
+![After](assets/after.jpg)
 ## How It Works
 
 The script uses three main libraries:
